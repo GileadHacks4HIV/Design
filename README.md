@@ -1,4 +1,4 @@
-# Desgin
+# Design
 HIV Design/Language Kit
 
 Visual Communication
